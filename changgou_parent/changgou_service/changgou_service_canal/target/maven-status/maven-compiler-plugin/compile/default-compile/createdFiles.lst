@@ -1,0 +1,4 @@
+com\changgou\canal\listener\CanalDataEventListener.class
+com\changgou\canal\mq\queue\TopicQueue.class
+com\changgou\canal\mq\send\TopicMessageSender.class
+com\changgou\CanalApplication.class
